@@ -3,11 +3,11 @@
 font-family: 'Roboto', sans-serif;
 }
 
-.nav-link{
-        font-family: 'Open Sans', sans-serif;
-
-
+#pagetitle{
+    font-family: 'Roboto', sans-serif;
 }
+.nav-link{
+        font-family: 'Open Sans', sans-serif;}
 
 .container{
     margin-top: 1.5em;
