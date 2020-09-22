@@ -1,0 +1,28 @@
+#logo{
+    /* font-family: 'Open Sans', sans-serif; */
+font-family: 'Roboto', sans-serif;
+}
+
+.nav-link{
+        font-family: 'Open Sans', sans-serif;
+
+
+}
+
+.container{
+    margin-top: 1.5em;
+    background-color: gainsboro;
+}
+
+#aboutme-img{
+    width:200px;
+    margin:5px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
